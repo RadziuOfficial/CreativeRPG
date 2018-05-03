@@ -1,0 +1,9 @@
+<meta>
+  <script src="podm.lua" type="client" />
+  <file src="podm1.txd" />
+  <file src="podm1.dff" />
+  <file src="podm3.txd" />
+  <file src="podm3.dff" />
+  <file src="podm2.txd" />
+  <file src="podm4.txd" />
+</meta>

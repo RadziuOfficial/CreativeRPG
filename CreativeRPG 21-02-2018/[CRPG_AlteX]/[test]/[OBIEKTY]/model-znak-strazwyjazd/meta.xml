@@ -1,0 +1,7 @@
+<meta>
+	<script src="c.lua" type="client" />
+	<script src="mapa.lua" type="server" />
+	<file src="znak.col" />
+	<file src="znak.dff" />
+	<file src="znak.txd" />
+</meta>

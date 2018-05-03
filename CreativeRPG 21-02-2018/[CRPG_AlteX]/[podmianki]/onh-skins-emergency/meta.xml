@@ -1,0 +1,11 @@
+
+<meta>
+    <info type="script" name="PanPrezes" version="1.0.0" author="skiny" />
+    <script src="podmianka.lua" type="client"/>
+    <file src="ratownik.dff" />
+    <file src="ratownik.txd" />
+    <file src="lekarz.dff" />
+    <file src="lekarz.txd" />
+    <file src="medol.dff" />
+    <file src="medol.txd" />
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+    <script src="s_vehicles.lua" type="server" />
+    <script src="s_duty.lua" type="server" />
+    <script src="s_command.lua" type="server" />
+    <script src="s_gate.lua" type="server" />
+        <script src="s_interior.lua" type="server" />
+    <file src="files/bg.png" />
+    <file src="files/myriadproregular.ttf" />
+    <info author=""></info>
+	<script src="c_duty.lua" type="client" />
+</meta>

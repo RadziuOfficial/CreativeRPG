@@ -1,0 +1,20 @@
+﻿<meta>
+	<info name="Licznik Pojazdów" author="Five MTA" version="1.0" type="misc"/>
+
+	<script src='client.lua' type='client' cache='false' />
+
+	<file src="strzalka.png" />
+	<file src="palifko.png" />
+
+	<file src="licznikzwykly.png" />
+	<file src="licznikfiolet.png" />
+	<file src="licznikblue.png" />
+	<file src="licznikczerwien.png" />
+	<file src="licznikaqua.png" />
+	<file src="licznikrozowy.png" />
+	<file src="licznikrainbow.png" />
+	<file src="licznikzolty.png" />
+	<file src="licznikpomarancz.png" />
+
+    <file src="light.ttf" />
+</meta>

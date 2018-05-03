@@ -1,0 +1,11 @@
+<meta>
+	<info name="Arabic Police" author="[TN]WASSIm." version="1.1.0" type="misc" />
+	<file src="images/vehiclepoldecals128.png" />
+	<file src="images/coronastar.png" />
+	<file src="images/headlight.png" />
+	<file src="images/headlight1.png" />
+	<file src="images/font2.png" />
+	<file src="images/CJ_PAINTING3.png" />
+	<file src="texture.fx" />
+	<script src="client.lua" type="client" />
+</meta>

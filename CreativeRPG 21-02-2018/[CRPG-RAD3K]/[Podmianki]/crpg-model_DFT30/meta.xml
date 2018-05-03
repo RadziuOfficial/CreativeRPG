@@ -1,0 +1,7 @@
+
+<meta>
+    <info type="script" name="RAD3K" version="1.0.0" author="skiny" />
+    <script src="podmianka.lua" type="client"/>
+    <file src="dft30.dff" />
+    <file src="dft30.txd" />
+</meta>

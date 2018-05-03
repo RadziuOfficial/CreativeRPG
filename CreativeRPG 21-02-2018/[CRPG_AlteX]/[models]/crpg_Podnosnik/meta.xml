@@ -1,0 +1,5 @@
+<meta>
+   <script src="podnosnik.lua" type="client" />
+  <file src="podnosniksamocho.dff" />
+  <file src="podnosniksamocho.txd" />
+</meta>

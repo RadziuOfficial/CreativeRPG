@@ -1,0 +1,5 @@
+
+:guieditor/output/GUI_output_2017-6-25_18-4.txt
+:guieditor/output/GUI_output_2017-6-25_18-18.txt
+:guieditor/output/GUI_output_2017-6-25_18-28.txt
+:guieditor/output/GUI_output_2017-6-25_19-21.txt

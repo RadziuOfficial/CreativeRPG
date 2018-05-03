@@ -1,0 +1,6 @@
+local txd = engineLoadTXD ( "znak.txd" )
+engineImportTXD ( txd, 2267 )
+local dff = engineLoadDFF ( "znak.dff" )
+engineReplaceModel ( dff, 2267 )
+local col = engineLoadCOL( "znak.col" )
+engineReplaceCOL( col, 2267 )

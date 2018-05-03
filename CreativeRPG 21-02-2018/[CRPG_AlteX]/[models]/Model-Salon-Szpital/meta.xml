@@ -1,0 +1,18 @@
+﻿<meta>
+	<info author="sabaru" version="1.0" type="resource"/>
+     
+	<script src="podmianac.lua" type="client" /> 
+	<script src="usuwaniec.lua" type="client" /> 
+	
+	<file src="modele/salon_stacja001.txd" />
+	
+	<file src="modele/LacmaBase1_LAn.dff" />
+	<file src="modele/LacmaBase1_LAn.col" />
+	
+
+	<file src="modele/grasspatchlan2.dff" />
+	<file src="modele/grasspatchlan2.col" />
+	
+	<file src="modele/LacmEntr1_LAn.dff" />
+	<file src="modele/LacmEntr1_LAn.col" />
+</meta>

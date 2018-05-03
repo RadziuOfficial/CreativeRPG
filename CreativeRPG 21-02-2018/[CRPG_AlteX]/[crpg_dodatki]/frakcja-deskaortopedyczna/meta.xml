@@ -1,0 +1,8 @@
+<meta>
+<info author="Haze"/>
+<script src="c.lua" type="client"/>
+<script src="s.lua"/>
+<file src="deska.dff"/>
+<file src="deska.col"/>
+<file src="deska.txd"/>
+</meta>

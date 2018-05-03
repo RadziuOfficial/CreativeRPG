@@ -1,0 +1,4 @@
+<meta>
+   <file src="Banner.txd" />
+   <script src="Podmianki.lua" type="client" />
+</meta>

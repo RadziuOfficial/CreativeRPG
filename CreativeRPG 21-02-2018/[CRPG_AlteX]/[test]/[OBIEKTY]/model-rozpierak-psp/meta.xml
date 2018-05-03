@@ -1,0 +1,8 @@
+<meta>
+    <info type="script" version="1.0.0"></info>
+	
+	<file src="rozpieracz.txd" />
+    	<file src="rozpieracz.dff" />
+	
+   	<script type="client" src="stop.lua" />
+</meta>

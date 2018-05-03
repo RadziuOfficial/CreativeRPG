@@ -1,0 +1,6 @@
+<meta>
+   <script src="szafka.lua" type="client" />
+  <file src="szafkamech.col" />
+  <file src="szafkamech.dff" />
+  <file src="szafkamech.txd" />
+</meta>

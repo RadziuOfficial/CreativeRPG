@@ -1,0 +1,5 @@
+<meta>
+    <info type="map" name="RatuszCL" author="RAD3K" version="1.0.0" description="Zakaz usuwania autora!"></info>
+	
+	<script src="interior.lua" type="server" />	
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+    <info type="script" version="1.0"></info>
+	<script src="podmianka.lua" type="client" />
+	<file src="JRGLS.col" />
+	<file src="JRGLS.dff" />
+	<file src="JRGLS.txd" />
+	<file src="brama01.txd"/>
+<file src="brama01.dff"/>
+<file src="brama01.col"/>
+</meta>

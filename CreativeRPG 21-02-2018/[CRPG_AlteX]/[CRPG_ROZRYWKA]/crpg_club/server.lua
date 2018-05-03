@@ -1,0 +1,5 @@
+addEvent("crpg_club.throwMoney", true)
+addEventHandler("crpg_club.throwMoney", resourceRoot, function (id)
+	setPedAnimation(client, "STRIP", "PUN_CASH", 0, false)
+	triggerClientEvent("crpg_club.throwMoney", resourceRoot, id)
+end)

@@ -1,0 +1,9 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<file src="droid-sans.ttf"/>
+	<file src="lcz.ttf"/>
+	<file src="licznik.png"/>
+	<file src="hud.png"/>
+	<file src="hud2.png"/>	
+	<script src="s.lua" type="server"/>
+</meta>

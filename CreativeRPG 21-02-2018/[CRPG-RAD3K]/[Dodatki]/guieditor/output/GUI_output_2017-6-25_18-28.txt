@@ -1,0 +1,18 @@
+
+GUIEditor = {
+    edit = {}
+}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        GUIEditor.edit[1] = guiCreateEdit(0.32, 0.34, 0.13, 0.03, "", true)
+
+
+        GUIEditor.edit[2] = guiCreateEdit(0.52, 0.34, 0.13, 0.03, "", true)
+
+
+        GUIEditor.edit[3] = guiCreateEdit(0.32, 0.45, 0.13, 0.03, "", true)
+
+
+        GUIEditor.edit[4] = guiCreateEdit(0.52, 0.45, 0.13, 0.03, "", true)    
+    end
+)

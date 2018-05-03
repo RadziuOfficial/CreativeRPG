@@ -1,0 +1,17 @@
+<meta>
+   <script src="szpital.lua" type="client" />
+  <file src="model/Beachut01_LAw2.col" />
+  <file src="model/gaz22_law.col" />
+  <file src="model/gaz22_law.dff" />
+
+  <file src="model/gaz23_law.col" />
+  <file src="model/gaz23_law.dff" />
+  <file src="model/Pier04_LAw2.col" />
+
+  <file src="model/ren_tomo1.col" />
+  <file src="model/ren_tomo1.dff" />
+  <file src="model/szpital_szyba.col" />
+
+  <file src="model/szpital_szyba.dff" />
+  <file src="model/szpital_tekstury.txd" />
+</meta>

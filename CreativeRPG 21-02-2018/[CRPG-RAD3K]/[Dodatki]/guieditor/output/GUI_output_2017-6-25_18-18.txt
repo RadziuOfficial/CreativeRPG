@@ -1,0 +1,36 @@
+
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        glownyparking = guiCreateWindow(0.69, 0.25, 0.43, 0.62, "", true)
+        guiWindowSetMovable(glownyparking, false)
+        guiWindowSetSizable(glownyparking, false)
+
+        doneparking = guiCreateButton(10, 606, 291, 55, "", false, glownyparking)
+        cancelparking = guiCreateButton(525, 606, 291, 55, "", false, glownyparking)
+        podpisparking = guiCreateEdit(0.06, 0.24, 0.34, 0.07, "", true, glownyparking)
+        dataparking = guiCreateEdit(0.06, 0.42, 0.34, 0.07, "", true, glownyparking)
+        rejestracjaparking = guiCreateEdit(0.52, 0.42, 0.34, 0.07, "", true, glownyparking)
+        modelparking = guiCreateEdit(0.52, 0.24, 0.34, 0.07, "", true, glownyparking)    
+    end
+)
+
+local screenW, screenH = guiGetScreenSize()
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(screenW * 0.2802, screenH * 0.1806, screenW * 0.4401, screenH * 0.6398, tocolor(1, 0, 0, 167), false)
+        dxDrawRectangle(screenW * 0.2802, screenH * 0.1463, screenW * 0.4401, screenH * 0.0343, tocolor(74, 204, 0, 255), false)
+        dxDrawText("Panel parkingu policyjnego", (screenW * 0.2802) + 1, (screenH * 0.1463) + 1, (screenW * 0.7203) + 1, (screenH * 0.1815) + 1, tocolor(0, 0, 0, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Panel parkingu policyjnego", screenW * 0.2802, screenH * 0.1463, screenW * 0.7203, screenH * 0.1815, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.3057, screenH * 0.3120, screenW * 0.4516, screenH * 0.3352, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.3057, screenH * 0.4231, screenW * 0.4516, screenH * 0.4463, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.5083, screenH * 0.3120, screenW * 0.6542, screenH * 0.3352, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.5083, screenH * 0.4231, screenW * 0.6542, screenH * 0.4463, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawRectangle(screenW * 0.2896, screenH * 0.7472, screenW * 0.1531, screenH * 0.0574, tocolor(74, 204, 0, 255), false)
+        dxDrawRectangle(screenW * 0.5578, screenH * 0.7472, screenW * 0.1531, screenH * 0.0574, tocolor(74, 204, 0, 255), false)
+        dxDrawText("Wyślij pojazd na parking", (screenW * 0.2891) + 1, (screenH * 0.7472) + 1, (screenW * 0.4427) + 1, (screenH * 0.8046) + 1, tocolor(0, 0, 0, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Wyślij pojazd na parking", screenW * 0.2891, screenH * 0.7472, screenW * 0.4427, screenH * 0.8046, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Zamknij panel", (screenW * 0.5578) + 1, (screenH * 0.7472) + 1, (screenW * 0.7115) + 1, (screenH * 0.8046) + 1, tocolor(0, 0, 0, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Zamknij panel", screenW * 0.5578, screenH * 0.7472, screenW * 0.7115, screenH * 0.8046, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+    end
+)

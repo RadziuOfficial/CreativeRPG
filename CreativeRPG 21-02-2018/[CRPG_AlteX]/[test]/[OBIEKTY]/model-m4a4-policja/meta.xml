@@ -1,0 +1,9 @@
+<meta>
+	<info author="CzarnaKobra/WonszRzeczny" version="1.0" type="script" name="Deagle" description="Deagle" />
+	<script src="weapon_sounds_client.lua" type="client" />
+	<script type="client" src="replace.lua" />
+	
+	<file src="Deagle.wav" />
+	<file src="deagle.txd" />
+	<file src="deagle.dff" />
+</meta>

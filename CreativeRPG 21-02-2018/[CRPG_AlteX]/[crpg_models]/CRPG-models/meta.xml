@@ -1,0 +1,152 @@
+<meta>
+	<script src="replace.lua" type="client" />
+	<file src="blokada.col" />
+	<file src="blokada.dff" />
+	<file src="blokada.txd" />
+	<file src="Antena.dff" />
+	<file src="Antena.txd" />
+	<file src="mblokada.col" />
+	<file src="mblokada.dff" />
+	<file src="mblokada.txd" />
+	<file src="zwloki.col" />
+	<file src="zwloki.dff" />
+	<file src="zwloki.txd" />
+	<file src="dystrybutor.dff" />
+	<file src="dystrybutor.txd" />
+	<file src="Bankomat.dff" />
+	<file src="Bankomat.txd" />
+	<file src="Light1901.dff" />
+	<file src="Light1901.txd" />
+	<file src="LightBlue.txd" />
+	<file src="LightRed.txd" />
+	<file src="LightBar.dff" />
+	<file src="LightBar.txd" />
+	<file src="Pas.dff" />
+	<file src="Pas.txd" />
+	<file src="Biurowiec3781.dff" />
+	<file src="Biurowiec3781.txd" />
+	<file src="Tarcza.txd" />
+	<file src="A-7.dff" />
+	<file src="B-2.dff" />
+	<file src="D-1.dff" />
+	<file src="D-52.dff" />
+	<file src="Odholowanie.dff" />
+	<file src="Welcome.dff" />
+	<file src="B-20.dff" />
+	<file src="70.dff" />
+	<file src="70.txd" />
+	<file src="120.txd" />
+	<file src="120.dff" />
+	<file src="30.txd" />
+	<file src="30.dff" />
+	<file src="Podstawa.dff" />
+	<file src="TAXI.txd" />
+        <file src="spowalniacz.txd" />
+        <file src="spowalniacz.dff" />
+        <file src="spowalniacz.col" />
+        <file src="Pacholek.txd" />
+        <file src="Pacholek.dff" />
+        <file src="PacholekB.txd" />
+        <file src="PacholekB.dff" />
+        <file src="Doherty.txd" />
+        <file src="Doherty.dff" />
+        <file src="Rampa.txd" />
+        <file src="Rampa.dff" />
+        <file src="Rampa.col" />
+        <file src="Mechanik.txd" />
+        <file src="Mechanik.dff" />
+        <file src="Mechanik.col" />
+        <file src="Podest.txd" />
+        <file src="Podest.dff" />
+        <file src="PIT.txd" />
+        <file src="PIT.dff" />
+        <file src="Zajezdnia.dff" />
+        <file src="Zajezdnia.txd" />
+        <file src="Wall1D.dff" />
+        <file src="Wall1.dff" />
+        <file src="Walls.txd" />
+        <file src="Wall1D.col" />
+        <file src="Wall1.col" />
+        <file src="Wall1P.col" />
+        <file src="Wall1P.dff" />
+        <file src="L.dff" />
+        <file src="L.txd" />
+      <!--  <file src="carshow_sfse.txd" /> -->
+        <file src="Kolizja.dff" />
+        <file src="Kolizja.txd" />
+        <file src="ZnakMechanik.dff" />
+        <file src="ZnakMechanik.txd" />
+        <file src="Arrow.dff" />
+        <file src="Arrow.txd" />
+        <file src="Warsztat.dff" />
+        <file src="Warsztat.txd" />
+        <file src="Tuner.dff" />
+        <file src="Tuner.txd" />
+        <file src="WarsztatSzafka.dff" />
+        <file src="WarsztatKomputer.dff" />
+        <file src="WarsztatItems.txd" />
+        <file src="TablicaFelg.dff" />
+        <file src="TablicaFelg.txd" />
+        <file src="lanpolicecp.txd" />
+        <file src="lanbloke.txd" />
+        <file src="EPJ.txd" />
+        <file src="EPJ.dff" />
+        <file src="Kont.txd" />
+        <file src="Kont.dff" />
+        <file src="Plug.txd" />
+        <file src="Plug.dff" />
+        <file src="EfektSnieg.txd" />
+        <file src="EfektSnieg.dff" />
+        <file src="EfektPiasek.dff" />
+        <file src="Maszyna.txd" />
+        <file src="Maszyna.dff" />
+        <file src="Odsniezanie.txd" />
+        <file src="Odsniezanie.dff" />
+        <file src="BigWalls.txd" />
+        <file src="BigWall.dff" />
+        <file src="BigWall.col" />
+        <file src="LongWall.dff" />
+        <file src="LongWall.col" />
+        <file src="Wall2.dff" />
+        <file src="Wall2D.dff" />
+        <file src="Whiteboard.txd" />
+        <file src="Pj.dff" />
+        <file src="PjA.txd" />
+        <file src="PjB.txd" />
+        <file src="PjC.txd" />
+        <file src="Trafficcone.txd" />
+        <file src="Trafficcone.dff" />
+        <file src="TrafficC.txd" />
+        <file src="TrafficC.dff" />
+
+
+        <file src="BanerP-7313.txd" />
+
+        <file src="[1900]pushbar.txd" />
+        <file src="[1900]pushbar.dff" />
+
+        <file src="Most-16358.txd" />
+        <file src="Most-16358.dff" />
+
+        <file src="Bramki-9623.txd" />
+        <file src="Bramki-9623.dff" />
+
+        <file src="[1907]LightBar.txd" />
+        <file src="[1907]LightBar.dff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+</meta>

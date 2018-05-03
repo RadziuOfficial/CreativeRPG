@@ -1,0 +1,9 @@
+<meta>
+<script src="spray.lua" type="server" />
+<script src="s.lua" type="server" />
+<script src="c.lua" type="client" cache="false" />
+<file src="1.png" cache="false" />
+<file src="2.png" cache="false" />
+<file src="3.png" cache="false" />
+<file src="4.png" cache="false" />
+</meta>

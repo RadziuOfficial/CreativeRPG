@@ -1,0 +1,28 @@
+
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+local screenW, screenH = guiGetScreenSize()
+        glownyparking = guiCreateWindow((screenW - 826) / 2, (screenH - 670) / 2, 826, 670, "", false)
+        guiWindowSetSizable(glownyparking, false)
+
+        doneparking = guiCreateButton(10, 606, 291, 55, "", false, glownyparking)
+        cancelparking = guiCreateButton(525, 606, 291, 55, "", false, glownyparking)
+        podpisparking = guiCreateEdit(0.06, 0.24, 0.34, 0.07, "", true, glownyparking)
+        dataparking = guiCreateEdit(0.06, 0.42, 0.34, 0.07, "", true, glownyparking)
+        rejestracjaparking = guiCreateEdit(0.52, 0.42, 0.34, 0.07, "", true, glownyparking)
+        modelparking = guiCreateEdit(0.52, 0.24, 0.34, 0.07, "", true, glownyparking)    
+    end
+)
+
+addEventHandler("onClientRender", root,
+    function()
+        dxDrawRectangle(screenW * 0.2755, screenH * 0.1796, screenW * 0.4401, screenH * 0.6398, tocolor(1, 0, 0, 167), false)
+        dxDrawRectangle(screenW * 0.2755, screenH * 0.1454, screenW * 0.4401, screenH * 0.0343, tocolor(74, 204, 0, 255), false)
+        dxDrawText("Panel parkingu policyjnego", (screenW * 0.2755) + 1, (screenH * 0.1444) + 1, (screenW * 0.7156) + 1, (screenH * 0.1796) + 1, tocolor(0, 0, 0, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Panel parkingu policyjnego", screenW * 0.2755, screenH * 0.1444, screenW * 0.7156, screenH * 0.1796, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.3057, screenH * 0.3120, screenW * 0.4516, screenH * 0.3352, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.3057, screenH * 0.4231, screenW * 0.4516, screenH * 0.4463, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.5104, screenH * 0.3120, screenW * 0.6563, screenH * 0.3352, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+        dxDrawText("Jakiś text", screenW * 0.5104, screenH * 0.4231, screenW * 0.6563, screenH * 0.4463, tocolor(255, 255, 255, 255), 1.00, "default", "center", "center", false, false, false, false, false)
+    end
+)

@@ -1,0 +1,31 @@
+
+GUIEditor = {
+    label = {}
+}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        GUIEditor.label[1] = guiCreateLabel(0.51, 0.27, 0.17, 0.05, "Data odholowania:", true)
+        guiLabelSetHorizontalAlign(GUIEditor.label[1], "center", false)
+        guiLabelSetVerticalAlign(GUIEditor.label[1], "center")
+
+
+        GUIEditor.label[2] = guiCreateLabel(0.51, 0.33, 0.17, 0.05, "Ostatni kierowca:", true)
+        guiLabelSetHorizontalAlign(GUIEditor.label[2], "center", false)
+        guiLabelSetVerticalAlign(GUIEditor.label[2], "center")
+
+
+        GUIEditor.label[3] = guiCreateLabel(0.51, 0.39, 0.17, 0.05, "Kto odholował:", true)
+        guiLabelSetHorizontalAlign(GUIEditor.label[3], "center", false)
+        guiLabelSetVerticalAlign(GUIEditor.label[3], "center")
+
+
+        GUIEditor.label[4] = guiCreateLabel(0.51, 0.44, 0.17, 0.05, "Powód:", true)
+        guiLabelSetHorizontalAlign(GUIEditor.label[4], "center", false)
+        guiLabelSetVerticalAlign(GUIEditor.label[4], "center")
+
+
+        GUIEditor.label[5] = guiCreateLabel(0.51, 0.50, 0.17, 0.05, "Cena odholowania:", true)
+        guiLabelSetHorizontalAlign(GUIEditor.label[5], "center", false)
+        guiLabelSetVerticalAlign(GUIEditor.label[5], "center")    
+    end
+)

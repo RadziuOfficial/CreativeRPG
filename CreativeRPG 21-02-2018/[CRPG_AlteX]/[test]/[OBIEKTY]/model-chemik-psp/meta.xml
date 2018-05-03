@@ -1,0 +1,5 @@
+<meta>
+  <script src="podm.lua" type="client" />
+  <file src="podm.dff" />
+  <file src="podm.txd" />
+</meta>

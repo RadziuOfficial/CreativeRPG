@@ -1,0 +1,40 @@
+
+
+-- -- -- -- -- 20.1.2018 at 12:51, Creator: RAD3K
+myCollision = createColCuboid(-2283.5879, 6.2276287, 33.080002, 11.5, 5.25, 4.5)
+
+-- -- -- -- -- 20.1.2018 at 13:22, Creator: RAD3K
+myCollision = createColCuboid(-2239.5266, -25.601784, 34.070313, 55.25, 114.75, 5)
+
+-- -- -- -- -- 24.1.2018 at 18:10, Creator: RAD3K
+myCollision = createColCuboid(-2047.7761, -814.82196, 132.87634, 2, 2, 2)
+
+-- -- -- -- -- 24.1.2018 at 19:1, Creator: RAD3K
+myCollision = createColCuboid(-2443.4219, -640.58044, 132.93796, 2, 2, 2)
+
+-- -- -- -- -- 25.1.2018 at 19:27, Creator: RAD3K
+myCollision = createColCuboid(-2571.1462, 318.47629, 10.5625, 2, 2, 2)
+
+-- -- -- -- -- 7.2.2018 at 19:20, Creator: RAD3K
+myCollision = createColCuboid(1047.4354, 2127.3225, 10.820313, 2, 2, 2)
+
+-- -- -- -- -- 11.2.2018 at 23:55, Creator: RAD3K
+myCollision = createColCuboid(-2461.1868, 785.68988, 35.171875, 2, 2, 2)
+
+-- -- -- -- -- 12.2.2018 at 23:53, Creator: RAD3K
+myCollision = createColCuboid(-2294.7405, -0.44089556, 35.320313, 2, 2, 2)
+
+-- -- -- -- -- 13.2.2018 at 14:33, Creator: RAD3K
+myCollision = createColCuboid(2841.1899, 1290.91, 11.390625, 2, 2, 2)
+
+-- -- -- -- -- 15.2.2018 at 20:14, Creator: RAD3K
+myCollision = createColCuboid(-2445.7048, -636.63879, 132.8869, 2, 2, 2)
+
+-- -- -- -- -- 16.2.2018 at 13:51, Creator: RAD3K
+myCollision = createColCuboid(2824.4971, 1268.1239, 10.764228, 2, 2, 2)
+
+-- -- -- -- -- 16.2.2018 at 14:21, Creator: RAD3K
+myCollision = createColCuboid(1718.8947, 1851.5123, 9.5703125, 38.5, 166.75, 4.5)
+
+-- -- -- -- -- 16.2.2018 at 17:52, Creator: RAD3K
+myCollision = createColCuboid(2317.1355, 1785.5195, 10.820313, 2, 2, 2)

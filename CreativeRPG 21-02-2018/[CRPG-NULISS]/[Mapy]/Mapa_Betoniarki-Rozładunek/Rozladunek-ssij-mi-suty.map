@@ -1,0 +1,9 @@
+<map edf:definitions="editor_main">
+    <object id="object (ws_scaffolding_SFX) (1)" breakable="true" interior="0" alpha="255" model="3867" doublesided="false" scale="1" dimension="0" posX="-52.2" posY="-1133.2" posZ="-4.6" rotX="0" rotY="0" rotZ="340"></object>
+    <object id="object (Cs_Logs06) (1)" breakable="true" interior="0" alpha="255" model="18609" doublesided="false" scale="1" dimension="0" posX="-31.8" posY="-1126.7" posZ="1.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Cs_Logs06) (2)" breakable="true" interior="0" alpha="255" model="18609" doublesided="false" scale="1" dimension="0" posX="-28.8" posY="-1126.4" posZ="1.3" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CE_beerpile01) (1)" breakable="true" interior="0" alpha="255" model="3378" doublesided="false" scale="1" dimension="0" posX="-57" posY="-1148.4" posZ="1.2" rotX="0" rotY="0" rotZ="70"></object>
+    <object id="object (lasntrk3) (1)" breakable="true" interior="0" alpha="255" model="3569" doublesided="false" scale="1" dimension="0" posX="-76.9" posY="-1115.2" posZ="2.7" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (Cs_Logs06) (3)" breakable="true" interior="0" alpha="255" model="18609" doublesided="false" scale="1" dimension="0" posX="-79.1" posY="-1135.8" posZ="1.3" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (airuntest_las) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="3666" doublesided="false" scale="1" dimension="0" posX="-84.3" posY="-1119.8" posZ="0.6" rotX="0" rotY="0" rotZ="0"></object>
+</map>

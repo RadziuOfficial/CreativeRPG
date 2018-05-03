@@ -1,0 +1,11 @@
+<map edf:definitions="editor_main">
+    <object id="object (int_strip_club) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14838" doublesided="false" scale="1" dimension="0" posX="1030" posY="-1096.4004" posZ="4180" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LM_stripColumns) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14835" doublesided="false" scale="1" dimension="0" posX="1030" posY="-1096.4004" posZ="4180" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LM_stripchairs1) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14833" doublesided="false" scale="1" dimension="0" posX="1029.97" posY="-1096.41" posZ="4180" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LM_stripchairs) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14837" doublesided="false" scale="1" dimension="0" posX="1030" posY="-1096.3896" posZ="4180" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strip_lights) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14830" doublesided="false" scale="1" dimension="0" posX="1030" posY="-1096.4" posZ="4180" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LM_strippoles) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14836" doublesided="false" scale="1" dimension="0" posX="1030" posY="-1096.4" posZ="4180.1001" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (LM_stripCorner) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="14832" doublesided="false" scale="1" dimension="0" posX="1030" posY="-1096.4" posZ="4179.8999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ufo_bar) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="16151" doublesided="false" scale="1" dimension="0" posX="1031.8" posY="-1110.1" posZ="4178.7998" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (Gen_doorEXT07) (1)" breakable="true" interior="0" alpha="255" model="1505" doublesided="false" scale="1" dimension="0" posX="1021.8" posY="-1108.2" posZ="4178.5" rotX="0" rotY="0" rotZ="0"></object>
+</map>

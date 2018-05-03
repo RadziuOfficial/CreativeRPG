@@ -1,0 +1,32 @@
+﻿<meta>
+	<info author="sabaru" version="0.1" type="resource"/>
+     
+	<script src="testc.lua" type="client" /> 
+	
+	
+-- podmienia plac pod budynkiem
+	<file src="modele/hospital_law.dff" />
+	<file src="modele/hospital_law.col" />
+	<file src="modele/szpital001.txd" />
+	<file src="modele/LODszpital001.txd" />
+	
+	<file src="modele/lawnmalstrip.dff" />
+	<file src="modele/lawnmalstrip.col" />
+
+	<file src="modele/lawnmalstripTR.dff" />
+	<file src="modele/lawnmalstripTR.col" />
+	
+	<file src="modele/MelBlok05_LAwN.dff" />
+	<file src="modele/MelBlok05_LAwN.col" />
+	
+	<file src="modele/LODhospital_law.dff" />
+	<file src="modele/LODhospital_law.col" />
+	
+	<file src="modele/LODlawnmalstrip.dff" />
+	<file src="modele/LODlawnmalstrip.col" />
+	
+	<file src="modele/LODMelBlok05_LAwN.dff" />
+	<file src="modele/LODMelBlok05_LAwN.col" />
+	
+	<file src="modele/road_lawn39.col" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+    <info type="Models" author="AlteX" />
+    <file src="carshowglass_sfsx.txd" />
+    <script src="podmien.lua" type="client" />
+</meta>
+

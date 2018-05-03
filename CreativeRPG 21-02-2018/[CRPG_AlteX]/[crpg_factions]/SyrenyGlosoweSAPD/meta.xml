@@ -1,0 +1,13 @@
+<meta>
+	<info name="Syreny-sirens-new" description="New Sirens Usage: 1,2,3,4,5,6 And more.... if you want go the no't compiled say in the comments your e-mail." version="1.0.0" type="script" author="Kasha" />
+    <file src="a/as320_wail.ogg" />
+    <file src='a/a380_ton1.ogg' />
+    <file src='gam150_hilo.ogg' />
+    <file src='gam150_priority.ogg' />
+    <file src='gam150_wail.ogg' />
+    <file src='PA300_hilo.ogg' />
+    <file src='PA300_Wailpoprawiony.ogg' />
+    <file src='PA300_yelppoprawiony.ogg' />
+	<script src="dzwieki.luac" type="server" />
+	<script src="dzwieki_c.luac" type="client" />
+</meta>

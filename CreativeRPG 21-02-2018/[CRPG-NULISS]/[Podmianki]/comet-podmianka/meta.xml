@@ -1,0 +1,6 @@
+<meta>
+	<info type="misc" name="Car replacement for: Comet" author="Nuliss" description="" version="1" />
+	<file src="480.txd" />
+	<file src="480.dff" />
+	<script type="client" src="replace.lua" />
+</meta>

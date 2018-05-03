@@ -1,0 +1,6 @@
+txd = engineLoadTXD ("hooligan.txd", 333)
+dff = engineLoadDFF ("hooligan.dff", 333)
+col = engineLoadCOL ("hooligan.col")
+engineImportTXD(txd, 333)
+engineReplaceModel(dff, 333)
+engineReplaceCOL(col,333)

@@ -1,0 +1,6 @@
+<meta>
+    <info type="Models" author="AlteX" />
+    <file src="oldgarage_sfse.txd" />
+    <script src="podmien.lua" type="client" />
+</meta>
+

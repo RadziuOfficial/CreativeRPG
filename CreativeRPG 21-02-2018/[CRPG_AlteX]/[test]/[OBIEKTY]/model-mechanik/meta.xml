@@ -1,0 +1,8 @@
+<meta>
+
+	<!-- PODMIANKA -->
+	<file src="oldgarage_sfse.txd" />
+	<file src="hubint1_sfse.txd" />
+	<script src="c_podmianka.lua" type="client" />
+	<file src="sw_block05.txd" />
+</meta>

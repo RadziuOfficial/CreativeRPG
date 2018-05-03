@@ -1,0 +1,4 @@
+<meta>
+<script src="afk-s.lua" type="server" />
+<script src="afk-c.lua" type="client" cache="false" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<script src="c.lua" type="client" cache="false"/>
+	<export function="editbox_create" type="client"/>
+	<export function="editbox_destroy" type="client"/>
+	<export function="editbox_text" type="client"/>
+</meta>

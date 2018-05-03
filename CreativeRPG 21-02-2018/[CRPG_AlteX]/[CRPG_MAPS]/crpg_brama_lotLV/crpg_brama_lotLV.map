@@ -1,0 +1,5 @@
+<map edf:definitions="editor_main">
+    <object id="object (pol_comp_gate) (1)" breakable="true" interior="0" alpha="255" model="2933" doublesided="false" scale="1" dimension="0" posX="1705.6" posY="1606.6" posZ="10.8" rotX="0" rotY="0" rotZ="74"></object>
+    <object id="object (strtbarrier01) (1)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1706.8" posY="1611" posZ="9" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (strtbarrier01) (2)" breakable="true" interior="0" alpha="255" model="1237" doublesided="false" scale="1" dimension="0" posX="1707.3" posY="1612.6" posZ="9" rotX="0" rotY="0" rotZ="0"></object>
+</map>

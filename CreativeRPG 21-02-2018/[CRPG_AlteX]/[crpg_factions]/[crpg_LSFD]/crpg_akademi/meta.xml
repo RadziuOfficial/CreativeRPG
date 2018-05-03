@@ -1,0 +1,8 @@
+<meta>
+    <info type="misc" name="pony" author="AlteX" description="pony" version="1.0" />
+
+    <file src="pony.txd" />
+    <file src="pony.dff" />
+    <script type="client" src="replace.lua" />
+ 
+</meta>

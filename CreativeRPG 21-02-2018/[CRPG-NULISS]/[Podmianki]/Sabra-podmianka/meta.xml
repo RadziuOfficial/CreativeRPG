@@ -1,0 +1,7 @@
+<meta>
+	<info type="misc" name="Car replacement for: Sabre" author="Nuliss" description="" version="1" />
+	<file src="475.txd" />
+	<file src="475.dff" />
+	<script type="client" src="replace.lua" />
+
+</meta>

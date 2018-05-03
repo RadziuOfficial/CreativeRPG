@@ -1,0 +1,8 @@
+<meta>
+	<min_mta_version client="1.4.1" server="1.4.1" /> 
+	<!-- SERVERSIDE -->
+	<script src="s_job.lua" type="server" />
+
+	<!-- CLIENTSIDE -->
+	<script src="c_job.lua" type="client" />
+</meta>

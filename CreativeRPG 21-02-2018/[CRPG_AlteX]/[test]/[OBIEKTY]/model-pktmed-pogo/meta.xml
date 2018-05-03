@@ -1,0 +1,7 @@
+<meta>
+<script src="Podmiana.lua" type="client" />
+<file src="pktmed.dff"/>
+<file src="pktmed.col"/>
+<file src="pktmed.txd"/>
+
+</meta>
